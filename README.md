@@ -4,7 +4,7 @@
 这是我的第一个网页项目, 是跟随课程一步步做的
 
 ```html
-<p>hello world</p>
+<p>hello github</p>
 ```
 
 你需要注意一下几点:
